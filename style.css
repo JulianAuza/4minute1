@@ -1,0 +1,55 @@
+
+<---Navigation 
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center
+    
+    
+}
+
+li {
+    display: inline;
+    
+}
+
+<---Borders
+
+hr {color:none;}
+ p {margin-left:20px;}
+ body {
+ background-image:url("http://www.kpopmagazin.de/wp-content/uploads/2015/08/tumblr_nl83zwfQb71rcoad1o1_1280.jpg");
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ }
+    p {
+    background-color:pink;
+    
+
+}
+
+p{
+    border:none;
+    margin-top: 300px;
+    margin-bottom: 100px;
+    margin-right: 80px;
+    margin-left: 80px;
+    text-align: center
+}
+h1{
+    border:none;
+    margin-top: 300x;
+    margin-bottom: 1px;
+    margin-right: 80px;
+    margin-left: 80px;
+    text-align: center
+    }
+        h1{
+        background-color:none
+        
+    }
+);
+   
+}
+}
